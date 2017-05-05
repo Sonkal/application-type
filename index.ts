@@ -7,4 +7,5 @@ export class Application{
     phone: string;
     phoneMother: string;
     phoneFather: string;
+	_id: string;
 }
