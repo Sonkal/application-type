@@ -1,0 +1,19 @@
+{
+  "name": "@sonkal/application-type",
+  "version": "1.0.0",
+  "description": "Common types for new membership applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonkal/application-type.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonkal/application-type/issues"
+  },
+  "homepage": "https://github.com/Sonkal/application-type#readme"
+}
