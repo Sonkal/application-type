@@ -1,11 +1,16 @@
-export class Application{
+export interface Application{
     firstName: string;
     lastName: string;
-    address: string;
+    address: {
+        street: string,
+        city: string,
+        postCode: string,
+    };
     personalId: string;
     email: string;
     phone: string;
     phoneMother: string;
     phoneFather: string;
-	_id: string;
+    subscribe: boolean;
+    id?: string | number;
 }
