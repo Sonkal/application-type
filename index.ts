@@ -14,3 +14,9 @@ export interface Application{
     subscribe: boolean;
     id?: string | number;
 }
+
+export interface AdminApplication extends Application{
+    meta: {
+        submittedOn: Date
+    }
+}
