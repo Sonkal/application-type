@@ -1,6 +1,6 @@
 {
   "name": "@sonkal/application-type",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common types for new membership applications",
   "main": "index.js",
   "scripts": {
