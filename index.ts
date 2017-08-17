@@ -12,7 +12,7 @@ export interface Application{
     phoneMother: string;
     phoneFather: string;
     subscribe: boolean;
-    id?: string | number;
+    id?: string;
 }
 
 export interface AdminApplication extends Application{
